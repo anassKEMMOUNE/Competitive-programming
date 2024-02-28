@@ -2,6 +2,8 @@
 
 using namespace std;
 typedef unsigned long long ull;
+
+//solved
 vector<string> possibilities;
 vector<string> all_possi;
 int to_minutes(const string& a){

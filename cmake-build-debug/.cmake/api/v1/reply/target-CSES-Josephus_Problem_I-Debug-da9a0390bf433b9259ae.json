@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "CSES"
+			"path" : "CSES-Josephus_Problem_I"
 		}
 	],
 	"backtrace" : 1,
@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 6,
+				"line" : 15,
 				"parent" : 0
 			}
 		]
@@ -53,7 +53,7 @@
 			]
 		}
 	],
-	"id" : "CSES::@6890427a1f51a3e7e1df",
+	"id" : "CSES-Josephus_Problem_I::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -69,8 +69,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "CSES",
-	"nameOnDisk" : "CSES",
+	"name" : "CSES-Josephus_Problem_I",
+	"nameOnDisk" : "CSES-Josephus_Problem_I",
 	"paths" : 
 	{
 		"build" : ".",
@@ -91,7 +91,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "CSES/Introductory Problems/Digit_Queries.cpp",
+			"path" : "CSES/Sorting&Searching/Josephus_problem_I.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

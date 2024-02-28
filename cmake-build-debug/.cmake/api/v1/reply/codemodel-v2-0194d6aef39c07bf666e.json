@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Competitive_programming",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CSES-Digit_queries::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSES-Digit_queries-Debug-f1f00ac725d432a38a6a.json",
+					"name" : "CSES-Digit_queries",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CSES-Josephus_Problem_I::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSES-Josephus_Problem_I-Debug-da9a0390bf433b9259ae.json",
+					"name" : "CSES-Josephus_Problem_I",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CSES-Josephus_Problem_II::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSES-Josephus_Problem_II-Debug-e66aae76a85f06b2229f.json",
+					"name" : "CSES-Josephus_Problem_II",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CSES-sum_3_values::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSES-sum_3_values-Debug-140151225ef628124bd0.json",
+					"name" : "CSES-sum_3_values",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CSES-sum_4_values::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CSES-sum_4_values-Debug-d8d7501c4a206a7205b7.json",
+					"name" : "CSES-sum_4_values",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MNPC2023-D::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MNPC2023-D-Debug-025e1704bb37929ca792.json",
+					"name" : "MNPC2023-D",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MNPC2023-E::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MNPC2023-E-Debug-60e18278ffefebf8b4f2.json",
+					"name" : "MNPC2023-E",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MNPC2023-G::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MNPC2023-G-Debug-64e7c9ff72f5eb98673c.json",
+					"name" : "MNPC2023-G",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/anass-kemmoune/Competitive-programming/cmake-build-debug",
+		"source" : "/home/anass-kemmoune/Competitive-programming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

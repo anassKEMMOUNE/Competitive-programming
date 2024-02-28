@@ -1,4 +1,8 @@
-/home/anass-kemmoune/Competitive-programming/cmake-build-debug/CMakeFiles/CSES.dir
+/home/anass-kemmoune/Competitive-programming/cmake-build-debug/CMakeFiles/CSES-Digit_queries.dir
+/home/anass-kemmoune/Competitive-programming/cmake-build-debug/CMakeFiles/CSES-sum_3_values.dir
+/home/anass-kemmoune/Competitive-programming/cmake-build-debug/CMakeFiles/CSES-sum_4_values.dir
+/home/anass-kemmoune/Competitive-programming/cmake-build-debug/CMakeFiles/CSES-Josephus_Problem_I.dir
+/home/anass-kemmoune/Competitive-programming/cmake-build-debug/CMakeFiles/CSES-Josephus_Problem_II.dir
 /home/anass-kemmoune/Competitive-programming/cmake-build-debug/CMakeFiles/MNPC2023-G.dir
 /home/anass-kemmoune/Competitive-programming/cmake-build-debug/CMakeFiles/MNPC2023-D.dir
 /home/anass-kemmoune/Competitive-programming/cmake-build-debug/CMakeFiles/MNPC2023-E.dir

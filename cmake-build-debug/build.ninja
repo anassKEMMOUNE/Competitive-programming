@@ -41,35 +41,159 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = /home/anass-kemmoune/Competitive-programming/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target CSES
+# Object build statements for EXECUTABLE target CSES-Digit_queries
 
 
 #############################################
-# Order-only phony target for CSES
+# Order-only phony target for CSES-Digit_queries
 
-build cmake_object_order_depends_target_CSES: phony || CMakeFiles/CSES.dir
+build cmake_object_order_depends_target_CSES-Digit_queries: phony || CMakeFiles/CSES-Digit_queries.dir
 
-build CMakeFiles/CSES.dir/CSES/Introductory_Problems/Digit_Queries.cpp.o: CXX_COMPILER__CSES_unscanned_Debug /home/anass-kemmoune/Competitive-programming/CSES/Introductory$ Problems/Digit_Queries.cpp || cmake_object_order_depends_target_CSES
-  DEP_FILE = CMakeFiles/CSES.dir/CSES/Introductory_Problems/Digit_Queries.cpp.o.d
+build CMakeFiles/CSES-Digit_queries.dir/CSES/Introductory_Problems/Digit_Queries.cpp.o: CXX_COMPILER__CSES-Digit_queries_unscanned_Debug /home/anass-kemmoune/Competitive-programming/CSES/Introductory$ Problems/Digit_Queries.cpp || cmake_object_order_depends_target_CSES-Digit_queries
+  DEP_FILE = CMakeFiles/CSES-Digit_queries.dir/CSES/Introductory_Problems/Digit_Queries.cpp.o.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles/CSES.dir
-  OBJECT_FILE_DIR = CMakeFiles/CSES.dir/CSES/Introductory_Problems
+  OBJECT_DIR = CMakeFiles/CSES-Digit_queries.dir
+  OBJECT_FILE_DIR = CMakeFiles/CSES-Digit_queries.dir/CSES/Introductory_Problems
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target CSES
+# Link build statements for EXECUTABLE target CSES-Digit_queries
 
 
 #############################################
-# Link the executable CSES
+# Link the executable CSES-Digit_queries
 
-build CSES: CXX_EXECUTABLE_LINKER__CSES_Debug CMakeFiles/CSES.dir/CSES/Introductory_Problems/Digit_Queries.cpp.o
+build CSES-Digit_queries: CXX_EXECUTABLE_LINKER__CSES-Digit_queries_Debug CMakeFiles/CSES-Digit_queries.dir/CSES/Introductory_Problems/Digit_Queries.cpp.o
   FLAGS = -g
-  OBJECT_DIR = CMakeFiles/CSES.dir
+  OBJECT_DIR = CMakeFiles/CSES-Digit_queries.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_FILE = CSES
-  TARGET_PDB = CSES.dbg
+  TARGET_FILE = CSES-Digit_queries
+  TARGET_PDB = CSES-Digit_queries.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target CSES-sum_3_values
+
+
+#############################################
+# Order-only phony target for CSES-sum_3_values
+
+build cmake_object_order_depends_target_CSES-sum_3_values: phony || CMakeFiles/CSES-sum_3_values.dir
+
+build CMakeFiles/CSES-sum_3_values.dir/CSES/Sorting&Searching/Sum_of_three_values.cpp.o: CXX_COMPILER__CSES-sum_3_values_unscanned_Debug /home/anass-kemmoune/Competitive-programming/CSES/Sorting&Searching/Sum_of_three_values.cpp || cmake_object_order_depends_target_CSES-sum_3_values
+  DEP_FILE = "CMakeFiles/CSES-sum_3_values.dir/CSES/Sorting&Searching/Sum_of_three_values.cpp.o.d"
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/CSES-sum_3_values.dir
+  OBJECT_FILE_DIR = "CMakeFiles/CSES-sum_3_values.dir/CSES/Sorting&Searching"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target CSES-sum_3_values
+
+
+#############################################
+# Link the executable CSES-sum_3_values
+
+build CSES-sum_3_values: CXX_EXECUTABLE_LINKER__CSES-sum_3_values_Debug CMakeFiles/CSES-sum_3_values.dir/CSES/Sorting&Searching/Sum_of_three_values.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/CSES-sum_3_values.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = CSES-sum_3_values
+  TARGET_PDB = CSES-sum_3_values.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target CSES-sum_4_values
+
+
+#############################################
+# Order-only phony target for CSES-sum_4_values
+
+build cmake_object_order_depends_target_CSES-sum_4_values: phony || CMakeFiles/CSES-sum_4_values.dir
+
+build CMakeFiles/CSES-sum_4_values.dir/CSES/Sorting&Searching/Sum_of_four_values.cpp.o: CXX_COMPILER__CSES-sum_4_values_unscanned_Debug /home/anass-kemmoune/Competitive-programming/CSES/Sorting&Searching/Sum_of_four_values.cpp || cmake_object_order_depends_target_CSES-sum_4_values
+  DEP_FILE = "CMakeFiles/CSES-sum_4_values.dir/CSES/Sorting&Searching/Sum_of_four_values.cpp.o.d"
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/CSES-sum_4_values.dir
+  OBJECT_FILE_DIR = "CMakeFiles/CSES-sum_4_values.dir/CSES/Sorting&Searching"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target CSES-sum_4_values
+
+
+#############################################
+# Link the executable CSES-sum_4_values
+
+build CSES-sum_4_values: CXX_EXECUTABLE_LINKER__CSES-sum_4_values_Debug CMakeFiles/CSES-sum_4_values.dir/CSES/Sorting&Searching/Sum_of_four_values.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/CSES-sum_4_values.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = CSES-sum_4_values
+  TARGET_PDB = CSES-sum_4_values.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target CSES-Josephus_Problem_I
+
+
+#############################################
+# Order-only phony target for CSES-Josephus_Problem_I
+
+build cmake_object_order_depends_target_CSES-Josephus_Problem_I: phony || CMakeFiles/CSES-Josephus_Problem_I.dir
+
+build CMakeFiles/CSES-Josephus_Problem_I.dir/CSES/Sorting&Searching/Josephus_problem_I.cpp.o: CXX_COMPILER__CSES-Josephus_Problem_I_unscanned_Debug /home/anass-kemmoune/Competitive-programming/CSES/Sorting&Searching/Josephus_problem_I.cpp || cmake_object_order_depends_target_CSES-Josephus_Problem_I
+  DEP_FILE = "CMakeFiles/CSES-Josephus_Problem_I.dir/CSES/Sorting&Searching/Josephus_problem_I.cpp.o.d"
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/CSES-Josephus_Problem_I.dir
+  OBJECT_FILE_DIR = "CMakeFiles/CSES-Josephus_Problem_I.dir/CSES/Sorting&Searching"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target CSES-Josephus_Problem_I
+
+
+#############################################
+# Link the executable CSES-Josephus_Problem_I
+
+build CSES-Josephus_Problem_I: CXX_EXECUTABLE_LINKER__CSES-Josephus_Problem_I_Debug CMakeFiles/CSES-Josephus_Problem_I.dir/CSES/Sorting&Searching/Josephus_problem_I.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/CSES-Josephus_Problem_I.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = CSES-Josephus_Problem_I
+  TARGET_PDB = CSES-Josephus_Problem_I.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target CSES-Josephus_Problem_II
+
+
+#############################################
+# Order-only phony target for CSES-Josephus_Problem_II
+
+build cmake_object_order_depends_target_CSES-Josephus_Problem_II: phony || CMakeFiles/CSES-Josephus_Problem_II.dir
+
+build CMakeFiles/CSES-Josephus_Problem_II.dir/CSES/Sorting&Searching/Josephus_problem_II.cpp.o: CXX_COMPILER__CSES-Josephus_Problem_II_unscanned_Debug /home/anass-kemmoune/Competitive-programming/CSES/Sorting&Searching/Josephus_problem_II.cpp || cmake_object_order_depends_target_CSES-Josephus_Problem_II
+  DEP_FILE = "CMakeFiles/CSES-Josephus_Problem_II.dir/CSES/Sorting&Searching/Josephus_problem_II.cpp.o.d"
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/CSES-Josephus_Problem_II.dir
+  OBJECT_FILE_DIR = "CMakeFiles/CSES-Josephus_Problem_II.dir/CSES/Sorting&Searching"
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target CSES-Josephus_Problem_II
+
+
+#############################################
+# Link the executable CSES-Josephus_Problem_II
+
+build CSES-Josephus_Problem_II: CXX_EXECUTABLE_LINKER__CSES-Josephus_Problem_II_Debug CMakeFiles/CSES-Josephus_Problem_II.dir/CSES/Sorting&Searching/Josephus_problem_II.cpp.o
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/CSES-Josephus_Problem_II.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = CSES-Josephus_Problem_II
+  TARGET_PDB = CSES-Josephus_Problem_II.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target MNPC2023-G
@@ -198,7 +322,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /home/anass-kemmoune/Competitive-programming/cmake-build-debug
 
-build all: phony CSES MNPC2023-G MNPC2023-D MNPC2023-E
+build all: phony CSES-Digit_queries CSES-sum_3_values CSES-sum_4_values CSES-Josephus_Problem_I CSES-Josephus_Problem_II MNPC2023-G MNPC2023-D MNPC2023-E
 
 # =============================================================================
 # Built-in targets

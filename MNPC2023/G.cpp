@@ -3,7 +3,7 @@
 using namespace std;
 typedef unsigned long long ull;
 
-
+//solved
 int main(){
 
     ios_base::sync_with_stdio(false);
